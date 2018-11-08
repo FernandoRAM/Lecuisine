@@ -1,0 +1,35 @@
+*{
+	margin: 0;
+	padding: 0;
+	background-color: #f5f1eb;
+	overflow-y: hidden;
+}
+
+
+h1{
+	position: relative;
+	font-size: 85px;
+	margin-top: 15%;
+	margin-bottom: 6%;
+}
+
+h3{
+	font-size: 20px;
+
+}
+
+
+
+a{
+	color: #DB8302;
+	font-size: 180%;
+	position: absolute;
+	margin-top: 8%;
+	text-decoration: none;
+	left: 41.6%;
+}
+
+a:visited{
+	color: #DB8302;
+}
+
