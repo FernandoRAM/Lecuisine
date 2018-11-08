@@ -3,7 +3,7 @@
 	error_reporting(E_ALL);
 	ini_set('display_errors', 'on');
 
-	define( 'URL' ,"http://localhost:9999/".basename(getcwd())."/");
+	define( 'URL' ,"http://lecuisine.herokuapp.com");
 
 	define( 'CSS' ,URL."public/css/");
 	define( 'JS' , URL."public/js/" );
